@@ -2,11 +2,15 @@
 # What is MiSideVR?
 * MiSideVR is a mod for MiSide that I have been working on that will eventually add almost full VR integration into the game that uses BepInEx 6.0.0-pre2 as a loader.
 
+---
+
 # Requirements
 * A legal steam copy of MiSide(Not the demo)
 * An installation of BepInEx 6.0.0-pre2 in your MiSide game directory(A tutorial is included in the installation guide, which you can find in the [Discord Server](https://discord.gg/6VuwJw6tFM))
 * A decent PC capable of playing VR games
 * Any SteamVR compatible VR headset
+
+---
 
 # Future Updates
 <sub>Note: This is a rough outline, it is not complete and I may change certain parts of it in the future</sub>
