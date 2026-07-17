@@ -9,7 +9,7 @@
 * Any SteamVR compatible VR headset
 
 # Future Updates
-Note: This is a rough outline, it is not complete and I may change certain parts of it in the future
+<sub>Note: This is a rough outline, it is not complete and I may change certain parts of it in the future</sub>
 ## v1.0b — Initial Release
 * **Base Game:** Fully playable and beatable from start to finish.
 * **Core Functions:** Full support for dialogue options, 2D Mita(both the phone section and the actual 2D Mita section), the glitch/Mila section, and cutscene cameras/camera positions.
