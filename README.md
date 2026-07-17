@@ -37,4 +37,4 @@
 # Mod Status
 * **Latest Version:** N/A
 * **Working on Version:** v1.0b (~35% Complete)
-* ** Percent Complete Overall:** ~7%
+* **Percent Complete Overall:** ~7%
