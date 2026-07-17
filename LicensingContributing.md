@@ -22,7 +22,7 @@ Failure to comply with these terms will result in immediate action. Unauthorized
 
 If you wish to use any portion of this codebase for a specific project, showcase, or collaboration that falls outside of personal use, you must request and receive explicit, written permission beforehand. 
 
-Please reach out via the official Discord server over a ticket with a detailed explanation of your project. Any granted permissions will be strictly limited, non-exclusive, and non-commercial.
+Please reach out via the [Discord Server](https://discord.gg/6VuwJw6tFM) over a ticket with a detailed explanation of your project. Any granted permissions will be strictly limited, non-exclusive, and non-commercial.
 
 ---
 
