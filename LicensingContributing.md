@@ -18,6 +18,14 @@ Failure to comply with these terms will result in immediate action. Unauthorized
 
 ---
 
+## ✉️ Requesting Permission
+
+If you wish to use any portion of this codebase for a specific project, showcase, or collaboration that falls outside of personal use, you must request and receive explicit, written permission beforehand. 
+
+Please reach out via the official Discord server over a ticket with a detailed explanation of your project. Any granted permissions will be strictly limited, non-exclusive, and non-commercial.
+
+---
+
 ## 🤝 How to Contribute (Pull Requests Only)
 
 If you have improvements, bug fixes, or new features you would like to see added to the official project:
