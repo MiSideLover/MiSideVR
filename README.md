@@ -4,7 +4,7 @@
 
 # Requirements
 * A legal steam copy of MiSide(Not the demo)
-* An installation of BepInEx 6.0.0-pre2 in your MiSide game directory(A tutorial is included in the installation guide)
+* An installation of BepInEx 6.0.0-pre2 in your MiSide game directory(A tutorial is included in the installation guide, which you can find in the [Discord Server](https://discord.gg/6VuwJw6tFM))
 * A decent PC capable of playing VR games
 * Any SteamVR compatible VR headset
 
