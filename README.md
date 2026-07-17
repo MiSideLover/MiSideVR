@@ -1,4 +1,4 @@
-Image Here Soon
+![Project Title Card](ProjectAssets/MiSideVRTitleCard.png)
 # What is MiSideVR?
 * MiSideVR is a mod for MiSide that I have been working on that will eventually add almost full VR integration into the game that uses BepInEx 6.0.0-pre2 as a loader.
 
