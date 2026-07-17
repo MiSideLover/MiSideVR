@@ -38,3 +38,14 @@
 * **Latest Version:** N/A
 * **Working on Version:** v1.0b (~35% Complete)
 * **Percent Complete Overall:** ~7%
+
+---
+
+# Repository Structure & Source Code Updates
+
+To keep development organized, this repository is structured into distinct branches:
+
+* **Branching System:** Every major release or pre-release is separated into its own dedicated branch (e.g., `v1.0b-pre1`). 
+* **Periodic Source Updates:** The source code on the main branch is updated **periodically**, typically aligning with the release of the latest public pre-release or stable build. 
+
+If you are looking for the most up-to-date active development code or a specific version, please check the **Branches** dropdown menu above!
