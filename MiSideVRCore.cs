@@ -9,7 +9,7 @@ using Object = UnityEngine.Object;
 
 namespace MiSideVR.Core
 {
-    [BepInPlugin("com.misidevr.core", "MiSideVR", "1.0.0-pre1")]
+    [BepInPlugin("com.misidevr.core", "MiSideVR", "1.0.0-pre1hotfix")]
     public class MiSideVRCore : BasePlugin
     {
         internal static new ManualLogSource Log = null!;
@@ -17,7 +17,7 @@ namespace MiSideVR.Core
         public override void Load()
         {
             Log = base.Log;
-            Log.LogInfo("MiSide VR Core Loading Phase 2...");
+            Log.LogInfo("MiSide VR Loading...");
 
             // CRITICAL: Register ALL custom MonoBehaviours so IL2CPP allows AddComponent
             ClassInjector.RegisterTypeInIl2Cpp<VRManager>();

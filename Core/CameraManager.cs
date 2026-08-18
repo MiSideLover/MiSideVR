@@ -7,6 +7,7 @@ using UnityEngine.Rendering.PostProcessing;
 using UnityEngine.EventSystems;
 using Valve.VR;
 using Mathf = UnityEngine.Mathf;
+using Color = UnityEngine.Color;
 
 namespace MiSideVR.Core
 {
@@ -764,8 +765,6 @@ namespace MiSideVR.Core
             if (forceLog)
                 _lastPeriodicLogFrame = _frameCount;
 
-            LogCameraState(passive, isExcluded, cinematicType, forceLog);
-
             bool isMenu = sceneName == "SceneMenu";
 
             if (!passive)
@@ -882,13 +881,6 @@ namespace MiSideVR.Core
                 Quaternion spawnRot = _mainCamera.transform.rotation;
 
                 AlignRigToPose(spawnPos, spawnRot);
-
-                if (MiSideVRCore.Log != null)
-                {
-                    MiSideVRCore.Log.LogInfo(
-                        $"[VR] Menu spawn: pos={spawnPos} yaw={spawnRot.eulerAngles.y:F2}"
-                    );
-                }
             }
             else
             {

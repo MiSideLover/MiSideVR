@@ -1,6 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using Valve.VR;
+using Color = UnityEngine.Color;
 
 namespace MiSideVR.Core
 {

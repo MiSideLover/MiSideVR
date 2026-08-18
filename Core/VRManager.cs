@@ -1,6 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using Valve.VR;
+using Application = UnityEngine.Application;
 
 namespace MiSideVR.Core
 {
