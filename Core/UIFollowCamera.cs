@@ -4,6 +4,8 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.UI;
 using Mathf = UnityEngine.Mathf;
+using Cursor = UnityEngine.Cursor;
+using Button = UnityEngine.UI.Button;
 
 namespace MiSideVR.Core
 {
