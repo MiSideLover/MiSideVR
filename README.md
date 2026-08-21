@@ -53,3 +53,11 @@ To keep development organized, this repository is structured into distinct branc
 * **Periodic Source Updates:** The source code on the main branch is updated **periodically**, typically aligning with the release of the latest public pre-release or stable build. 
 
 If you are looking for the most up-to-date active development code or a specific version, please check the **Branches** dropdown menu above!
+
+---
+
+# Current Discord Server Boosters
+* **squintem**
+
+# Previous Discord Server Boosters
+* **N/A**
