@@ -34,14 +34,14 @@
 * **Throwables:** Pick up and physically throw some non-story objects.
 
 ## v1.5b — QOL & Multiplayer Support
-* **VR Comfort:** Added smooth turning, snap turning, custom turn speeds, and controller-directed movement.
+* **VR Comfort:** Added smooth turning, snap turning, custom turn speeds, and other settings
 * **Audio:** Corrected 3D spatial audio for cutscenes.
 * **Multiplayer:** Full compatibility with QuestionBlock64's multiplayer mod.
 
 # Mod Status
 * **Latest Version:** N/A
-* **Working on Version:** v1.0b (~35% Complete)
-* **Percent Complete Overall:** ~7%
+* **Working on Version:** v1.0b (~45% Complete)
+* **Percent Complete Overall:** ~9%
 
 ---
 
