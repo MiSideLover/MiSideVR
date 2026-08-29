@@ -58,6 +58,13 @@ If you are looking for the most up-to-date active development code or a specific
 
 # Current Discord Server Boosters
 * **squintem**
+* **frostwarrior3792**
 
 # Previous Discord Server Boosters
 * **N/A**
+
+---
+
+# Credits
+### This project would not be possible without the following people and their developments:
+* GlitchTest51 - Original creator of initialization and some UI fix scripts, such as [Will be updated in a moment]
