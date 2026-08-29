@@ -67,6 +67,6 @@ If you are looking for the most up-to-date active development code or a specific
 
 # Credits
 ### This project would not be possible without the following people and their developments:
-* **GlitchTest51** - Original author of initialization scripts, some UI scripts, the camera script, and some other important scripts: CanvasPatches(CanvasPatch), UIFollowCamera, VRPointerInput, CameraManager(StereoRender/VRSystem), PlayerMovePatches(VRPlayer), and ControllerVisuals(VRController). You can find the repo in the state it was in when these scripts were used [here](https://github.com/Glitchtest51/MiSide_VR/tree/9451cfc9e8f37a8effc5415a13b52ac0da97691f)
+* **[GlitchTest51](https://github.com/Glitchtest51)** - Original author of initialization scripts, some UI scripts, the camera script, and some other important scripts: CanvasPatches(CanvasPatch), UIFollowCamera, VRPointerInput, CameraManager(StereoRender/VRSystem), PlayerMovePatches(VRPlayer), and ControllerVisuals(VRController). You can find the repo in the state it was in when these scripts were used [here](https://github.com/Glitchtest51/MiSide_VR/tree/9451cfc9e8f37a8effc5415a13b52ac0da97691f)
 * **[DSprtn](https://github.com/DSprtn)** and **[PureDark](https://github.com/PureDark)** - Developers of [SteamVR_Standalone_IL2CPP](https://github.com/PureDark/SteamVR_Standalone_IL2CPP)
 * **[BepInEx](https://github.com/BepInEx/BepInEx)**
