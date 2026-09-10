@@ -57,11 +57,10 @@ If you are looking for the most up-to-date active development code or a specific
 ---
 
 # Current Discord Server Boosters
-* **squintem**
 * **frostwarrior3792**
 
 # Previous Discord Server Boosters
-* **N/A**
+* **squintem**
 
 ---
 
