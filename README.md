@@ -14,10 +14,6 @@
 
 # Future Updates
 <sub>Note: This is a rough outline, it is not complete and I may change certain parts of it in the future</sub>
-## v1.0b — Initial Release
-* **Base Game:** Fully playable and beatable from start to finish.
-* **Core Functions:** Full support for dialogue options, 2D Mita(both the phone section and the actual 2D Mita section), the glitch/Mila section, and cutscene cameras/camera positions.
-
 ## v1.1b — Inventory Part 1 & Interactions
 * **Physical Grabbing:** Physically grab items and place them in your pocket. Items are held and used dynamically.
 * *Note: Does not apply to automated cutscenes (e.g., smashing the window in Little Mita's level).*
@@ -27,16 +23,21 @@
 
 ## v1.3b — Cloth Physics & Doors
 * **Cloth Physics:** Dynamic reactions for clothing, tablecloths, and fabrics.
-* **Manual Doors:** Physically push doors with your hands
+* **Manual Doors:** Physically push doors with your hands.
 
 ## v1.4b — Mita Collision & Throwables
 * **Mita Physics:** Full physical collision on Mita (reacts to touch/pushing and snaps smoothly back into place).
 * **Throwables:** Pick up and physically throw some non-story objects.
 
-## v1.5b — QOL & Multiplayer Support
-* **VR Comfort:** Added smooth turning, snap turning, custom turn speeds, and other settings
+## v1.5b — Suggestions
+* **This update will contain a bunch of new features and content that was suggested that is not currently part of the base game. They will require a setting to be switched on, where you can also set custom keybinds for that suggestion. There are not very many keybinds though, which is why they have to be enabled and binded manually in the first place.**
+* **VR Settings Menu:** While basic in this update, it will provide a suggestions tab to allow you to enable suggestions and bind them to controller buttons.
+* **Mita's Gun:** A gun you can use to shoot throwables
+
+## v1.6b — QOL & Multiplayer Support
+* **VR Comfort:** Added smooth turning, snap turning, custom turn speeds, and other comfort settings
 * **Audio:** Corrected 3D spatial audio for cutscenes.
-* **Multiplayer:** Full compatibility with QuestionBlock64's multiplayer mod.
+* **Multiplayer:** Full compatibility with QuestionBlock64's multiplayer mod(If it is complete by then, which it most likely will be, and could also require a custom fork of his project).
 
 # Mod Status
 * **Latest Version:** N/A
