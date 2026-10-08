@@ -33,6 +33,7 @@
 * **This update will contain a bunch of new features and content that was suggested that is not currently part of the base game. They will require a setting to be switched on, where you can also set custom keybinds for that suggestion. There are not very many keybinds though, which is why they have to be enabled and binded manually in the first place.**
 * **VR Settings Menu:** While basic in this update, it will provide a suggestions tab to allow you to enable suggestions and bind them to controller buttons.
 * **Mita's Gun:** A gun you can use to shoot throwables
+* **FBT:** Support for full body tracking
 
 ## v1.6b — QOL & Multiplayer Support
 * **VR Comfort:** Added smooth turning, snap turning, custom turn speeds, and other comfort settings
@@ -40,7 +41,7 @@
 * **Multiplayer:** Full compatibility with QuestionBlock64's multiplayer mod(If it is complete by then, which it most likely will be, and could also require a custom fork of his project).
 
 # Mod Status
-* **Latest Version:** N/A
+* **Latest Version:** v1.0b-pre1-hotfix
 * **Working on Version:** v1.0b (~45% Complete)
 * **Percent Complete Overall:** ~9%
 
