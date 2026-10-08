@@ -42,7 +42,7 @@
 
 # Mod Status
 * **Latest Version:** v1.0b-pre1-hotfix
-* **Working on Version:** v1.0b (~45% Complete)
+* **Working on Version:** v1.0b (~65% Complete)
 * **Percent Complete Overall:** ~9%
 
 ---
