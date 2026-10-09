@@ -14,7 +14,13 @@
 
 # Future Updates
 <sub>Note: This is a rough outline, it is not complete and I may change certain parts of it in the future</sub>
+## v1.0b — Initial Release
+* **Base Game:** Fully playable and beatable from start to finish.
+* **Core Functions:** Full support for dialogue options, 2D Mita(both the phone section and the actual 2D Mita section), the glitch/Mila section, and cutscene cameras/camera positions.
+
 ## v1.1b — Inventory Part 1 & Interactions
+* **Hand/Arm Tracking:** The hand will now follow where your contorller is and come from the player
+* **Photo Mode Fix:** Photo Mode works properly in VR
 * **Physical Grabbing:** Physically grab items and place them in your pocket. Items are held and used dynamically.
 * *Note: Does not apply to automated cutscenes (e.g., smashing the window in Little Mita's level).*
 
